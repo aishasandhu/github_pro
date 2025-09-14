@@ -1,2 +1,2 @@
 # github_pro
-My First Repository
+My First Git Repository
